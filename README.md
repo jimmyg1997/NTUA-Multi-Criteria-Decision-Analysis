@@ -25,5 +25,5 @@ However the project was expanded. We firstly estimated and eliminated stocks bas
 
 ## How did we work?
 
-<img src="https://ibb.co/DbYLct6" width="200">
+<img src="https://pasteboard.co/IYrqBm8.png" alt="Untitled-Diagram" border="0">
 
